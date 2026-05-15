@@ -116,15 +116,13 @@ Backend webhook processing system.
 - **CNN & Entropy-Based Hybrid Model for Robust Deepfake Detection**  
   Manuscript submitted to MDPI (2025)
 
-- Research in Real-Time Sign Language Detection System
-
 ---
 
 ## 🎓 Education
 
 **Vellore Institute of Technology**  
 B.Tech – Computer Science and Engineering  
-CGPA: 8.45 / 10  
+CGPA: 8.53 / 10  
 2022 – 2026
 
 ---
